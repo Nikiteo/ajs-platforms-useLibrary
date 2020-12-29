@@ -1,0 +1,23 @@
+{
+  "name": "ajs-platforms-uselibrary",
+  "version": "1.0.0",
+  "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikiteo/ajs-platforms-useLibrary.git"
+  },
+  "author": "Nikiteo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikiteo/ajs-platforms-useLibrary/issues"
+  },
+  "homepage": "https://github.com/Nikiteo/ajs-platforms-useLibrary#readme",
+  "dependencies": {
+    "@nikiteo/ajs-platforms": "^1.0.0"
+  }
+}
